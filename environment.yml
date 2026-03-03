@@ -1,0 +1,8 @@
+name: taxi-fare-env
+channels:
+  -defaults
+dependencies:
+  -python=3.10
+  -pyspark
+  -pyarrow
+  -matplotlib
